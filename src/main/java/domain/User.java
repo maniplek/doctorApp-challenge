@@ -13,7 +13,5 @@ public abstract User {
     public String lastname;
     private int age;
     private Gender gender;
-    private String phoneNumber;
-    private String username;
-    private String password;
+
 }
